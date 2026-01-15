@@ -1,0 +1,5 @@
+{
+  "name": "Modern E-Commerce Store",
+  "description": "A full-featured e-commerce platform with product management, shopping cart, user authentication, and admin dashboard built with React, Tailwind CSS, and Firebase.",
+  "requestFramePermissions": []
+}
